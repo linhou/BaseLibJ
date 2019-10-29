@@ -1,0 +1,2 @@
+include ':baselib'
+rootProject.name='BaseLibJ'
